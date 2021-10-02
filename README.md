@@ -1,6 +1,6 @@
 # Reverse Engineering a Sniper Contract.
-Hey, I've seen this contract on BSCScan and wondered how it worked.
-And this is my notes for the sniper. 
+Hey, I've seen this contract on BSCScan. The owner of this contract made actually so much money so I've wondered how it works.
+Those are the notes I've took.
 
 Owner: `0xa7cc7c1522f529320776d27d9340f534d3a73b7f`
 Sniper: `0x851686b5db3c11e4bfc7fc9b92f66041bfae4665`
